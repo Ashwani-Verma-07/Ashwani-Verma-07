@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashwani Verma 😎 </h1>
 <h3 align="center">A Student Pursuing Bachelors of Technology in Computer Science and Information Technology.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashwani-Verma-07&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwani-Verma" /> </p>
+
 - 🌱 I'm Currently learning **Dynamic Programming.**
 
 - 👨‍💻 All of my projects are available under [Project Section](https://github.com/Ashwani-Verma-07)
@@ -28,6 +30,5 @@
 <h3> 👨‍💻 Most used programming languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani-Verma-07&theme=dracula)](https://github.com/Ashwani-Verma-07/github-readme-stats)
-
 
 [![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwani-Verma-07&theme=dark&show_icons=true)](https://github.com/Ashwani-Verma-07/github-redme-stats)
