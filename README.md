@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwani Verma 😎 </h1>
-<h3 align="center">A Student Pursuing Bachelors of Technology in Computer Science and Information Technology.</h3>
+<h3 align="center">A Student Pursuing Bachelor's of Technology in Computer Science and Information Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashwani-Verma-07&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwani-Verma" /> </p>
 
@@ -17,7 +17,7 @@
 <a href="https://instagram.com/ashwani017/" target="blank"><img align="center"src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Ashwani Verma" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/soy_imparable/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sterk_07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/soy_imparable/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" alt="ashwani" height="35" width="95" /></a>
-<a href="https://ashwani-verma-07.github.io/portfolio/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/004/753/030/original/portfolio-icon-shadowed-detailed-portfolio-logo-free-vector.jpg" alt="portfolio" height="30" width="35"/></a>
+<a href="https://portfolio-6e4e3.web.app/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/004/753/030/original/portfolio-icon-shadowed-detailed-portfolio-logo-free-vector.jpg" alt="portfolio" height="30" width="35"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +32,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani-Verma-07&theme=dracula)](https://github.com/Ashwani-Verma-07/github-readme-stats)
 
-[![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwani-Verma-07&theme=dark&show_icons=true)](https://github.com/Ashwani-Verma-07/github-redme-stats)
