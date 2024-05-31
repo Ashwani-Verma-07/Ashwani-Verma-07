@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashwani-Verma-07&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwani-Verma" /> </p>
 
-- 🌱 I'm Currently doing **B.Tech in Computer Science**
+- 🌱 I'm Currently enhancing my **SKILLS**
 
 - 👨‍💻 All of my projects are available under [Project Section](https://github.com/Ashwani-Verma-07)
 
